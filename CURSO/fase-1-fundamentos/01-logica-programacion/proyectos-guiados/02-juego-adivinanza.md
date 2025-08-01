@@ -1,4 +1,4 @@
-[🏠 **Volver al Índice de Navegación**](../../../../NAVEGACION-DOCUMENTOS.md)
+[🏠 **Volver al Índice de Navegación**](../../../NAVEGACION-DOCUMENTOS.md)
 
 ---
 
@@ -135,4 +135,4 @@ if (adivinanza < numeroSecreto) {
 
 ---
 
-[🔙 **Volver al Libro Principal**](../LOGICA-PROGRAMACION-LIBRO.md) | [🏠 **Índice General**](../../../../README.md) | [📚 **Navegación**](../../../../NAVEGACION-DOCUMENTOS.md) | [📝 **Ver Cheatsheet**](../CHEATSHEET-VISUAL.md)
+[🔙 **Volver al Libro Principal**](../LOGICA-PROGRAMACION-LIBRO.md) | [🏠 **Índice General**](../../../README.md) | [📚 **Navegación**](../../../NAVEGACION-DOCUMENTOS.md) | [📝 **Ver Cheatsheet**](../CHEATSHEET-VISUAL.md)

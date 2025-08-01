@@ -6218,13 +6218,32 @@ console.log("🎯 El futuro de la programación está en tus manos. ¡Ve y créa
 
 ---
 
-### 📚 **Recursos adicionales disponibles:**
+**🎯 ¿Listo para el siguiente nivel?**
 
-- **📝 [Cheatsheet Visual](./CHEATSHEET-VISUAL.md)** - Tu referencia rápida definitiva
-- **🔧 Herramientas recomendadas** - VS Code, Git, Node.js
+[🔜 **Estructuras de Datos**](../02-estructuras-datos/) | [🏠 **Volver al Inicio**](../../../README.md) | [📚 **Explorar Más Temas**](../../../NAVEGACION-DOCUMENTOS.md)
+
+---
+
+## 📚 **RECURSOS COMPLETOS**
+
+### 🎯 **Para Profundizar tu Aprendizaje**
+
+- **📝 [Cheatsheet Visual](./CHEATSHEET-VISUAL.md)** - Referencia rápida de sintaxis JavaScript
+- **🧪 [20 Ejercicios Prácticos](./ejercicios-practicos/README-EJERCICIOS.md)** - Práctica estructurada por niveles
+- **🚀 [Proyectos Guiados](./proyectos-guiados/)** - Aplicación práctica de lógica de programación
+  - [🧮 Calculadora Básica](./proyectos-guiados/01-calculadora-basica.md)
+  - [🎲 Juego de Adivinanza](./proyectos-guiados/02-juego-adivinanza.md)
+  - [🔢 Analizador de Números](./proyectos-guiados/03-analizador-numeros.md)
+  - [🎨 Generador de Patrones](./proyectos-guiados/04-generador-patrones.md)
+  - [🔐 Validador de Contraseñas](./proyectos-guiados/05-validador-contraseñas.md)
+
+### 🔧 **Herramientas y Recursos Adicionales**
+- **�️ Herramientas recomendadas** - VS Code, Git, Node.js
 - **🌐 Comunidades** - Stack Overflow, GitHub, Discord
 - **📖 Documentación oficial** - MDN Web Docs, JavaScript.info
 
-**¡Tu aventura como programador apenas comienza! 🌟**
-
 ---
+
+*💡 Recuerda: La lógica de programación es la base de todo. ¡Cada problema resuelto te hace un mejor programador!*
+
+[🔙 **Volver al Índice Principal**](../../../README.md) | [📚 **Navegación Completa**](../../../NAVEGACION-DOCUMENTOS.md) | [📝 **Ver Cheatsheet**](CHEATSHEET-VISUAL.md) | [🧪 **Ejercicios Prácticos**](ejercicios-practicos/README-EJERCICIOS.md)

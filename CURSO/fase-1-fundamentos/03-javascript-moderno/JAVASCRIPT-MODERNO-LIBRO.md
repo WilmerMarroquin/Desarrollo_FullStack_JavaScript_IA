@@ -6300,7 +6300,7 @@ console.log("¡El futuro del desarrollo web está en tus manos! 🌟");
 
 **🎯 ¿Listo para el siguiente nivel?**
 
-[🔜 **React Fundamentos**](../04-react-fundamentos/) | [🏠 **Volver al Inicio**](../../../README.md) | [📚 **Explorar Más Temas**](../../../NAVEGACION-DOCUMENTOS.md)
+[🔜 **Git & GitHub**](../04-git-github/) | [🏠 **Volver al Inicio**](../../../README.md) | [📚 **Explorar Más Temas**](../../../NAVEGACION-DOCUMENTOS.md)
 
 ---
 
@@ -6313,6 +6313,9 @@ console.log("¡El futuro del desarrollo web está en tus manos! 🌟");
 - **🚀 [Proyectos Guiados](./proyectos-guiados/)** - Aplicación práctica del ES6+
   - [🔄 Refactor App Moderna](./proyectos-guiados/01-refactor-app-moderna.md)
   - [🌐 Mini API Client](./proyectos-guiados/02-mini-api-fetcher.md)
+  - [🎨 Generador de Componentes](./proyectos-guiados/03-generador-componentes.md)
+  - [📝 Todo App Moderna](./proyectos-guiados/04-todo-app-moderna.md)
+  - [🌤️ Weather App ES6+](./proyectos-guiados/05-weather-app-es6.md)
 
 ---
 

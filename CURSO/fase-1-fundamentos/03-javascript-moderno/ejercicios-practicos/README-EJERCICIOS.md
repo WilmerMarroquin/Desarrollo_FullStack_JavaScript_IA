@@ -1,4 +1,4 @@
-[🏠 **Volver al Índice de Navegación**](../../../../NAVEGACION-DOCUMENTOS.md)
+[🏠 **Volver al Índice de Navegación**](../../../NAVEGACION-DOCUMENTOS.md)
 
 ---
 
@@ -142,10 +142,10 @@ const rutaAprendizaje = {
 
 **🎯 ¿Listo para modernizar tu JavaScript?**
 
-[🏠 **Volver al Libro Principal**](../JAVASCRIPT-MODERNO-LIBRO.md) | [📚 **Navegación**](../../../../NAVEGACION-DOCUMENTOS.md)
+[🏠 **Volver al Libro Principal**](../JAVASCRIPT-MODERNO-LIBRO.md) | [📚 **Navegación**](../../../NAVEGACION-DOCUMENTOS.md)
 
 ---
 
 *💡 **Recuerda**: Cada ejercicio ES6+ que completes te acerca más a escribir JavaScript profesional y moderno.*
 
-[🔙 **Volver al Libro Principal**](../JAVASCRIPT-MODERNO-LIBRO.md) | [🏠 **Índice General**](../../../../README.md) | [📚 **Navegación**](../../../../NAVEGACION-DOCUMENTOS.md) | [📝 **Ver Cheatsheet**](../CHEATSHEET-VISUAL.md)
+[🔙 **Volver al Libro Principal**](../JAVASCRIPT-MODERNO-LIBRO.md) | [🏠 **Índice General**](../../../README.md) | [📚 **Navegación**](../../../NAVEGACION-DOCUMENTOS.md) | [📝 **Ver Cheatsheet**](../CHEATSHEET-VISUAL.md)
